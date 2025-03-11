@@ -23,7 +23,7 @@ This model analyzes the URL structure to detect phishing attempts. Some extracte
 
 ## **📊 Model Performance**
 - **Algorithm Used:** XGBoost Classifier  
-- **Accuracy:** `XX%` _(Replace with your model’s accuracy)_  
+- **Accuracy:** `81%` 
 - **Confusion Matrix Visualization**:  
 
 ---
